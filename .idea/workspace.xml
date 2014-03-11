@@ -26,11 +26,11 @@
     <leaf>
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
+          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="4" selection-start="842" selection-end="842" vertical-scroll-proportion="0.74418604" vertical-offset="0" max-vertical-offset="731">
+          <provider editor-type-id="text-editor">
+            <state line="73" column="113" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1394">
               <folding />
             </state>
           </provider>
@@ -168,11 +168,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
+      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="4" selection-start="842" selection-end="842" vertical-scroll-proportion="0.74418604" vertical-offset="0" max-vertical-offset="731">
+      <provider editor-type-id="text-editor">
+        <state line="73" column="113" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="1428">
           <folding />
         </state>
       </provider>
