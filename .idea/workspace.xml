@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9ebe2a3-7094-4a9e-a9b5-363446bd11c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="e9ebe2a3-7094-4a9e-a9b5-363446bd11c8" name="Default" comment="" />
     <ignored path="OCPKata.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +24,11 @@
     <leaf>
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+          <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
-            <state line="73" column="113" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1394">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="113" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.9302326" vertical-offset="595" max-vertical-offset="1428">
               <folding />
             </state>
           </provider>
@@ -168,11 +166,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+      <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
-        <state line="73" column="113" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="1428">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="113" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.9302326" vertical-offset="595" max-vertical-offset="1428">
           <folding />
         </state>
       </provider>
