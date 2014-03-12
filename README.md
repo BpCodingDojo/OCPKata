@@ -3,7 +3,6 @@ OCPKata
 
 Kata for the dojo at 2014.03.12.
 
-[Link to Kata](http://www.planetgeek.ch/2013/05/14/the-fluent-calculator-kata/)
 
 
 Help to clone the repo
